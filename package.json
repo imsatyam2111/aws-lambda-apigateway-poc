@@ -1,0 +1,17 @@
+{
+  "name": "products-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Satya",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1430.0",
+    "uuid": "^9.0.0",
+    "yup": "^1.2.0"
+  }
+}
